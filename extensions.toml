@@ -270,6 +270,10 @@ version = "1.0.0"
 submodule = "extensions/ask-starknet-mcp"
 version = "0.0.1"
 
+[asm-intrinsics-lsp]
+submodule = "extensions/asm-intrinsics-lsp"
+version = "0.1.2"
+
 [asn1]
 submodule = "extensions/asn1"
 version = "0.0.1"
